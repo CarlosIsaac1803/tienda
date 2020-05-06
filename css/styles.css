@@ -58,6 +58,7 @@ background-attachment: fixed;
   height: 3px
 }
 .precio{
+  padding: 3px;
   width: 1.6rem;
   text-align: center;
 }
